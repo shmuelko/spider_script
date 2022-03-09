@@ -1,0 +1,1 @@
+phantom.js getData.js https://appexchange.salseforce.com/results >> newTxt4.com

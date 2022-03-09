@@ -1,0 +1,9 @@
+https://appexchange.salesforce.com/category/sales
+https://appexchange.salesforce.com/category/service
+https://appexchange.salesforce.com/category/marketing
+https://appexchange.salesforce.com/category/it-admin
+https://appexchange.salesforce.com/category/hr
+https://appexchange.salesforce.com/category/finance
+https://appexchange.salesforce.com/category/erp
+https://appexchange.salesforce.com/category/collaboration
+https://appexchange.salesforce.com/category/analytics
